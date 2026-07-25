@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bt224m.juragan89c.site/sitemap.xml
